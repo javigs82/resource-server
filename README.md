@@ -1,2 +1,2 @@
-# demo-full-stack
-Trainning project to demostrate full stack development. 
+# spring-boot hello-world 
+Trainning project to demostrate hello world RESTful service. 
