@@ -22,7 +22,7 @@ To get the code:
 
 Clone the repository:
 
-    $ git clone https://github.com/javigs82/es.javier.services.resource-server.git
+    $ git clone https://github.com/javigs82/resource-server.git
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
 
