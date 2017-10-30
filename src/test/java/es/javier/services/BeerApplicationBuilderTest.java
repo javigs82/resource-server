@@ -18,7 +18,7 @@ import es.javier.services.resource.dto.BeerDto;
 /**
  * Test builder class for testing beer resources
  * 
- * @author j.garcia.sanchez
+ * @author javigs82
  *
  */
 @RunWith(SpringRunner.class)

@@ -21,7 +21,7 @@ import es.javier.services.service.BeerService;
 /**
  * Restful class controller
  * 
- * @author j.garcia.sanchez
+ * @author javigs82
  * 
  */
 @RestController

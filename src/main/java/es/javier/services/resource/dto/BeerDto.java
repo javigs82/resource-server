@@ -1,11 +1,9 @@
 package es.javier.services.resource.dto;
 
-import com.couchbase.client.java.repository.annotation.Field;
-
 /**
  * Dto class for beers
  * 
- * @author j.garcia.sanchez
+ * @author javigs82
  *
  */
 public class BeerDto {

@@ -36,7 +36,7 @@ import es.javier.services.service.BreweryService;
 /**
  * Restful class controller to manage Brewery API
  * 
- * @author j.garcia.sanchez
+ * @author javigs82
  * 
  */
 @RestController
